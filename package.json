@@ -1,0 +1,21 @@
+{
+  "name": "igormagal-s-dark--variant",
+  "displayName": "IgorMagal's Dark+ Variant",
+  "description": "Dark+ extension with a few tweaks.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "IgorMagal's Dark+ Variant",
+        "uiTheme": "vs-dark",
+        "path": "./themes/IgorMagal's Dark+ Variant-color-theme.json"
+      }
+    ]
+  }
+}
